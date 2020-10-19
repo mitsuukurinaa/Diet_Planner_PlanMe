@@ -1,0 +1,65 @@
+Kurczak (ćwiartka)
+169
+16.9
+11.6
+0
+Kurczak (udo)
+106
+15.1
+5.1
+0
+Ryż (porcja)
+119
+2.3
+0.3
+26
+Kasza jaglana (szklanka)
+213
+6.8
+1.7
+41.6
+Ziemniak (sztuka)
+60
+1.5
+0.1
+12.8
+Makaron spaghetti (szklanka)
+185
+6.8
+1.3
+34.7
+Batat (sztuka)
+198
+3.7
+0.2
+46.2
+Płatki ryżowe z pełnego ziarna (szklanka)
+353
+7.4
+2.2
+75
+Mięso mielone z indyka (szklanka)
+260
+31.7
+14.8
+0.2
+Mięso mielone z cięleciny
+216
+39.8
+6.2
+0
+Mix warzyw na patelnię (porcja)
+62
+3.6
+0.8
+10.0
+Mięso wieprzowo wołowe (100g)
+308
+10,3
+30,0
+0,2
+Filet z łososia (200g)
+402
+39,8
+27,2
+0,0
